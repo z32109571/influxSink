@@ -8,7 +8,7 @@ flume 1.9 通用的业务日志导送到influxdb里面用于业务展示
 
 Influxdb配置说明：
 
-agent.sinks.k1.host = 10.100.135.78
+agent.sinks.k1.host = x.x.x.x
 
 上面是influxdb服务器地址
 
